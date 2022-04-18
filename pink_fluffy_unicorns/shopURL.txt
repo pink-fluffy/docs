@@ -1,0 +1,2 @@
+https://shopunicorn.live - Store frontend
+https://api.shopunicorn.live - Backend API
